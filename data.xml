@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>lettuce</title>
+            <rate>29</rate>
+            <image>https://vodovoz.ru/upload/iblock/57d/57daf1a66fbfcd809f96b3532b708268.jpeg</image>
+        </item>
+        <item>
+            <title>dill</title>
+            <rate>20</rate>
+            <image>https://today.salamweb.com/wp-content/uploads/2020/07/dreamstime_s_41444458-768x510.jpg</image>
+        </item>
+        <item>
+            <title>parsley</title>
+            <rate>40</rate>
+            <image>https://favoritefood.net/wp-content/uploads/2019/01/petrushka-480x360.jpg</image>
+        </item>
+         <item>
+            <title>basil</title>
+            <rate>15</rate>
+            <image>https://img.7dach.ru/image/600/00/00/48/2018/09/11/5f9891168b-nomark.jpg</image>
+        </item>
+    </channel>
+</rss>
